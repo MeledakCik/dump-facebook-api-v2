@@ -1,3 +1,7 @@
 Flask
 gunicorn
+fastapi
+uvicorn
+beautifulsoup4
+requests
 googlesearch-python
